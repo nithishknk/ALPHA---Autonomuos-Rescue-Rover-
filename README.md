@@ -1,7 +1,7 @@
 # ALPHA — Autonomous Fire Extinguishing Rover
 
 ## About
-Autonomous Mars-rover-inspired fire extinguishing system designed to detect 
+Autonomous rover-fire extinguishing system designed to detect 
 and suppress fires in hazardous environments, minimizing human risk.
 
 Originally conceived in 2019 as a gesture-controlled robot. Evolved into a 
